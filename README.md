@@ -28,5 +28,8 @@ type Tags =
 Me<"Wei Su", "Frontend Dev", "CyberConnect", "SUV", Tags>
 
 ```
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akasuv&layout=compact&theme=codeSTACKr&hide=issues,prs)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=akasuv&layout=compact&theme=codeSTACKr&hide=issues,prs" />
+</a>
 [![Wei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akasuv&layout=compac&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
