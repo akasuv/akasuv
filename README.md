@@ -27,4 +27,4 @@ Me<"Wei Su", "Frontend Dev", "CyberConnect", "SUV", Tags>
 
 ```
 
-![Metrics](https://metrics.lecoq.io/akasuv?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akasuv&hide=TeX&layout=compact)
