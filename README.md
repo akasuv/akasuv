@@ -28,5 +28,5 @@ type Tags =
 Me<"Wei Su", "Frontend Dev", "CyberConnect", "SUV", Tags>
 
 ```
-[![Wei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akasuv&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=akasuv&hide=TeX&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akasuv&layout=compact&theme=dracula&hide=issues,prs)
+[![Wei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akasuv&layout=compac&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
