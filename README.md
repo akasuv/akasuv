@@ -32,5 +32,5 @@ Me<"Wei Su", "Frontend Dev", "CyberConnect", "SUV", Tags>
 &nbsp;&nbsp;&nbsp;&nbsp;![Wei](https://github-readme-stats.vercel.app/api/wakatime?username=akasuv&layout=compac&theme=codeSTACKr&custom_title=Playing%20Neovim)
 
 ```
-                                                                            "Do One Thing and Do It Well."
+                                                                                     "Do One Thing and Do It Well."
 ```
