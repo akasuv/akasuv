@@ -1,16 +1,19 @@
-### Hi there 👋
+``` typescript
+type Me<N, R, A, NK, T> = {  
+    name: N;  
+    role: R;    
+    at: A;
+    nickname: NK;
+    tags: T;
+ }
+  
+type Tags =   
+| "⚡️ Frontend Enthusiast"  
+| "🥷 TypeScript Ninja"  
+| "🏎 Neovim Player"  
+| "🤖 Bot Creator"  
+| "👾 Solidity Newbie"  
 
-<!--
-**akasuv/akasuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me<"Wei Su", "Frontend Dev", "CyberConnect", "SUV", Tags>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
