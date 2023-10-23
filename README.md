@@ -1,1 +1,1 @@
-I code therefore I am.
+I code, therefore I am.
